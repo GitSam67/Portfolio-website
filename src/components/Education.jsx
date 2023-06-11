@@ -26,7 +26,7 @@ export default function Education() {
                                     alt="education"
                                 />
                                 <span className="flex-grow flex flex-col md:pl-4 pl-2">
-                                    <span className="title-font text-left text-indigo-900 font-small text-white md:text-2xl text-sm md:mt-2 md:ml-3">
+                                    <span className="title-font text-left text-blue-700 font-medium text-white md:text-2xl text-sm md:mt-2 md:ml-3">
                                         {edu.title}
                                     </span>
                                     <span className="text-left text-gray-800 md:text-md text-sm uppercase md:m-3 m-1">

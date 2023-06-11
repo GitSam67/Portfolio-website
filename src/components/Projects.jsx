@@ -27,7 +27,7 @@ export default function Projects() {
                     className="absolute inset-0 w-full h-full rounded-lg object-fit object-center"
                     src={project.image}
                   />
-                  <div className="md:px-32 px-10 py-10 h-full relative z-10 w-full border-2 rounded-lg border-blue-400 bg-gray-900 opacity-0 hover:opacity-100">
+                  <div className="md:px-32 px-10 py-10 md:pt-20 h-full relative z-10 w-full border-2 rounded-lg border-blue-400 bg-gray-900 opacity-0 hover:opacity-100">
                     <h1 className="title-font md:text-xl font-medium text-blue-400 mb-3">
                       {project.title}
                     </h1>

@@ -14,8 +14,8 @@ export default function App() {
   return (
     <main className="text-gray-300 bg-gray-900 body-font">
       <div id="starter" className="bg-no-repeat bg-cover w-full h-auto pb-5">
-      <Navbar />
-      <Home />
+        <Navbar />
+        <Home />
       </div>
       <About />
       <Skills />

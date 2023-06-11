@@ -4,7 +4,7 @@ export default function Footer() {
     return (
 
         <section id="footer" className="bg-black">
-            <div className="container md:px-5 pt-5 py-2 mx-auto">
+            <div className="container md:pl-10 pt-5 py-2 mx-auto">
                 <div className="flex flex-col md:flex-row">
                     <div className="md:w-1/3 items-center text-center mx-auto">
                         <h2 className="sm:text-3xl text-2xl font-medium title-font text-white mb-5"><span className="font-sans">Sam's Portfolio</span></h2>
@@ -12,8 +12,8 @@ export default function Footer() {
                     </div>
 
                 <div className="md:w-1/3 items-center text-center mx-auto">
-                    <h2 className="sm:text-3xl text-2xl font-medium title-font md:mr-20 text-white mb-4"><i class="fas fa-chevron-right mr-2"></i>Quick links</h2>
-                    <div id="quick" className="flex flex-col text-left md:ml-20 mb-10">
+                    <h2 className="sm:text-3xl text-2xl font-medium title-font md:mr-36 text-white mb-4"><i class="fas fa-chevron-right mr-2"></i>Quick links</h2>
+                    <div id="quick" className="flex flex-col text-left md:ml-28 mb-10">
                         <a className="transition delay-40 title-font font-medium text-white py-2 w-fit hover:text-purple-600 duration-300" href="#home"><i class="fas fa-chevron-circle-right"></i> home</a>
                         <a className="transition delay-40 title-font font-medium text-white py-2 w-fit hover:text-purple-600 duration-300" href="#about"><i class="fas fa-chevron-circle-right"></i> about</a>
                         <a className="transition delay-40 title-font font-medium text-white py-2 w-fit hover:text-purple-600 duration-300" href="#skills"><i class="fas fa-chevron-circle-right"></i> skills</a>

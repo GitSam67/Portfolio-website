@@ -3,7 +3,7 @@ export const projects = [
       title: "Karma-Advanced Todo App",
       description:
         "A user friendly task manager web app to organize & manage their personal or professional tasks & keep track of their performance to increase work efficiency.",
-      image: "./Karma-App.jpg",
+      image: "./Karma-App.jpeg",
       link: "https://karma-web.netlify.app",
       GithubLink: "https://github.com/GitSam67/Karma-Advanced-Todo-App"
     },
@@ -11,7 +11,7 @@ export const projects = [
       title: "V-Chat-Realtime Chat App",
       description:
         "Web chat app where users can connect with their peers online on their private shared room spaces & can share texts, images with various other features onboard.",
-      image: "./V-Chat-App.jpg",
+      image: "./V-Chat.jpeg",
       link: "https://v-chat.adaptable.app",
       GithubLink: "https://github.com/GitSam67/V-Chat"
     },
@@ -19,7 +19,7 @@ export const projects = [
       title: "Food Recipe Api",
       description:
         "Pure Backend project tested with Postman Api which calls different Rest Api's to cater each unique requests displaying various dishes filtered by customers needs.",
-      image: "./REST-API-SERVER.jpg",
+      image: "./Rest-Api.jpeg",
       link: "https://github.com/GitSam67/Rest-Api-Server",
       GithubLink: "https://github.com/GitSam67/Rest-Api-Server"
     },
@@ -35,7 +35,7 @@ export const projects = [
       title: "Portfolio Website",
       description:
         "Simple & Straight-forward description of myself, portfolio built using the power of React & Tailwind Css showcasing my entire technical journey in a nutshell...!! ",
-      image: "./Portfolio.jpg",
+      image: "./Portfolio.png",
       link: "https://reactbootcamp.com",
       GithubLink: "https://github.com/GitSam67/Personal-Portfolio"
     },
@@ -43,39 +43,22 @@ export const projects = [
   
   export const education = [
     {
-      image: "./pu.jpg",
+      image: "./Pu.jpeg",
       title: "BTech Computer Science Engineering",
       desc: "Parul University | Vadodara",
       status: "2020-2024 | Pursuing..."
     },
     {
-      image: "./rosary.png",
+      image: "./Rosary.jpeg",
       title: "Higher Secondary Board ( 12th HSC ) ",
       desc: "Rosary School | Vadodara",
       status: "2018-2020 | Completed."
     },
     {
-      image: "./svs.jpg",
+      image: "./Svs.jpeg",
       title: "Senior Secondary Board ( 10th SSC ) ",
       desc: "Saint Xaviers School | Botad",
       status: "2008-2018 | Completed."
-    },
-  ];
-  
-  export const testimonials = [
-    {
-      quote:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "https://randomuser.me/api/portraits/men/1.jpg",
-      name: "Jesse Hicks",
-      company: "Zoozle",
-    },
-    {
-      quote:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "https://randomuser.me/api/portraits/men/94.jpg",
-      name: "Ruben Alvarez",
-      company: "Dooble.io",
     },
   ];
   

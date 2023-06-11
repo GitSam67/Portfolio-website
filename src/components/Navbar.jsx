@@ -10,7 +10,7 @@ export default function Navbar() {
     <header id="navbar" className="bg-black sticky z-50 shadow-xl rounded-md w-full top-0 left-0">
       <nav className="container md:flex items-center w-full justify-between py-2 md:px-10 px-7">
         <div className="flex cursor-pointer text-left">
-          <img className="w-10 h-10 border-2 border-gray-900 shadow-xl rounded-full mr-2" src="./phoenix.webp" alt="logo"></img>
+          <img className="w-10 h-10 border-2 border-gray-900 shadow-xl rounded-full mr-2" src="./phoenix.png" alt="logo"></img>
           <a className="transition delay-40 title-font font-bold text-2xl w-20 cursor-pointer text-white flex flex-row items-center hover:text-indigo-400 duration-500" href="#starter">Sam
           <i className="transition delay-40 fab fa-md fa-node-js m-1 mb-0 text-white cursor-pointer hover:text-indigo-400 duration-500"></i></a>
         </div>

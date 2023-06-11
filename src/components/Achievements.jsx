@@ -16,21 +16,21 @@ export default function Achievements() {
         </div>
           <div className="md:flex w-full justify-center align-items-center md:mb-0">
             <div className="rounded-lg md:w-1/3 w-5/6 md:h-64 h-48 md:mr-10 mx-auto md:mb-0 mb-5">
-                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Microsoft-Certification.jpg" alt="certificate"></img>
+                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Microsoft-Certification.jpeg" alt="certificate"></img>
             </div>
             <div className="rounded-lg md:w-1/3 w-5/6 md:h-64 h-48 md:mr-10 mx-auto md:mb-0 mb-5">
-                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Hackathon-Certification.jpg" alt="certificate"></img>
+                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Hackathon-Certificate.jpeg" alt="certificate"></img>
             </div>
             <div className="rounded-lg md:w-1/3 w-5/6 md:h-64 h-48 mx-auto md:mb-0 mb-5">
-                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Guvi-Certification.png" alt="certificate"></img>
+                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Guvi-Certification.jpeg" alt="certificate"></img>
             </div>
           </div>
           <div className="md:flex w-full md:px-10 justify-center align-items-center md:mt-10 mb-30">
             <div className="rounded-lg md:w-1/3 w-5/6 md:h-64 h-48 md:mx-10 mx-auto md:mb-0 mb-5">
-                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Server-Authentication-Certificate.jpg" alt="certificate"></img>
+                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Server_Auth.jpeg" alt="certificate"></img>
             </div>
             <div className="rounded-lg md:w-1/3 w-5/6 md:h-64 h-48 md:mx-0 mx-auto md:mb-0 mb-5">
-                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Coursera-Certificate.jpg" alt="certificate"></img>
+                <img className="w-full h-full rounded-lg shadow-xl border-2 border-blue-300 object-fit object-center" src="./Coursera-Certificate.jpeg" alt="certificate"></img>
             </div>
           </div>
       </div>
