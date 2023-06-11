@@ -36,8 +36,8 @@ export const projects = [
       description:
         "Simple & Straight-forward description of myself, portfolio built using the power of React & Tailwind Css showcasing my entire technical journey in a nutshell...!! ",
       image: "./Portfolio.png",
-      link: "https://reactbootcamp.com",
-      GithubLink: "https://github.com/GitSam67/Personal-Portfolio"
+      link: "https://samanuay-nambiar.netlify.app/",
+      GithubLink: "https://github.com/GitSam67/Portfolio-Website"
     },
   ];
   
