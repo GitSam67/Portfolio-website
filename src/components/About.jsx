@@ -26,7 +26,7 @@ export default function About() {
             <h3 className="ml-1 font-medium mb-3 text-white"> Full Stack Web Developer..!!</h3>
             <br className="hidden lg:inline-block" />
           <p className="mb-8 leading-relaxed text-left">
-          I am a Full-Stack developer based in Baroda, India. I am currently pursuing my BTech in Computer Science from Parul University, Vadodara. I am very passionate about improving my coding skills & builiding out Web-based applications. Exploring various domains to honor my skillset..
+          I am a Full-Stack developer based in Baroda, India. I am currently pursuing my BTech in Computer Science from Parul University, Vadodara. I am very passionate about improving my coding skills & building out Web-based applications. Exploring various domains to honor my skillset..
           <br /><br className="md:hidden inline-block" />
           <span className="text-white mr-3 md:mb-0 mb-3"><span className="text-indigo-400">Email</span>  : samanuaynr67@gmail.com </span>
           <br className="md:hidden inline-block" />
