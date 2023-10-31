@@ -8,6 +8,14 @@ export const projects = [
       GithubLink: "https://github.com/GitSam67/Karma-Advanced-Todo-App"
     },
     {
+      title: "BeCommunity",
+      description:
+        "A community based web app which enables users to join & create various communities according to their interest and share their unique ideas with people around them.",
+      image: "./BeCommunity.png",
+      link: "https://github.com/GitSam67/becommunity-frontend",
+      GithubLink: "https://github.com/GitSam67/becommunity-frontend"
+    },
+    {
       title: "V-Chat-Realtime Chat App",
       description:
         "Web chat app where users can connect with their peers online on their private shared room spaces & can share texts, images with various other features onboard.",
